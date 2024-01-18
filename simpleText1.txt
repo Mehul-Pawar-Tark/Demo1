@@ -1,4 +1,0 @@
-"hello world"
-"hello world2"
-"third line in simple text"
-"simple"

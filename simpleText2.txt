@@ -1,2 +1,3 @@
 "this is simpleText2"
 "simpleText2 line no. 2"
+"simple 2"
